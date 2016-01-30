@@ -1,0 +1,52 @@
+<!--
+  Copyright 2012 Steven Rudenko
+  
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+  
+    http://www.apache.org/licenses/LICENSE-2.0
+  
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">anxpp\'s blog</string>
+    <!-- Setting strings -->
+    <string name="pref_spacing">侧滑设置</string>
+    <string name="pref_spacing_type">滑动方式</string>
+    <string name="pref_spacing_width">滑动宽度</string>
+    <string name="pref_spacing_actions">菜单栏宽度</string>
+    <string name="pref_shadow">阴影设置</string>
+    <string name="pref_show_shadow">显示影子</string>
+    <string name="pref_shadow_width">影子宽度</string>
+    <string name="pref_fade">灰暗设置</string>
+    <string name="pref_fade_type">变暗方式</string>
+    <string name="pref_fade_max_value">最暗值</string>
+    <string name="pref_swiping">侧滑控制区域</string>
+    <string name="pref_swiping_type">位置设置</string>
+    <string name="pref_swiping_edge_width">菜单栏侧滑宽度</string>
+    <string name="pref_other">其他</string>
+    <string name="pref_other_fling_duration">滑动速度延迟</string>
+    <!-- Action titles -->
+    <string name="action_settings">设置</string>
+    <string name="action_about">关于</string>
+    <string name="action_sandbox">沙盒</string>
+    <string name="action_effects">效果</string>
+    <string name="action_bookmarks">书签</string>
+    <!-- Effects -->
+    <string name="effect_parallax">Parallax</string>
+    <string name="effect_replace">Replace</string>
+    <string name="effect_alpha">Alpha</string>
+    <string name="effect_duration">Duration</string>
+    <string name="effect_bounce">Bounce</string>
+    <string name="effect_overshot">Overshot</string>
+    <!-- Effects content strings -->
+    <string name="effect_content_actions_xml">Actions effect animation XML</string>
+    <string name="effect_content_content_xml">Content effect animation XML</string>
+
+</resources>
